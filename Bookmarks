@@ -1,0 +1,1797 @@
+{
+   "checksum": "1294e3bfa8e00ea4016e39a3be922b66",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13191996045000000",
+               "guid": "cc55fb2c-3f25-4545-b494-2e35497675e0",
+               "id": "9",
+               "name": "有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 - 哈喽沃德的回答 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000005814672/a-1020000005837425"
+            }, {
+               "date_added": "13192076399000000",
+               "guid": "80347305-bc3e-4ac7-ad04-5b7239ce5848",
+               "id": "10",
+               "name": "java - 有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000005814672"
+            }, {
+               "date_added": "13192077662000000",
+               "guid": "96986809-33e1-4955-9a92-3c6ebad4ff44",
+               "id": "11",
+               "name": "Web应用增删改查的实现技巧 - 中国精品科普期刊文献库",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFT&dbname=CJFDLAST2015&filename=DNBC201504006&v=MjAwMzRua1VyektJU1BKYmJHNEg5VE1xNDlGWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZadWRwRnk="
+            }, {
+               "date_added": "13192077689000000",
+               "guid": "55adeb51-f48b-4d64-b2aa-81e47c3b9a99",
+               "id": "12",
+               "name": "关系型数据库通用表单开发工具的设计和实现 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2000&filename=JSJK200001010&v=MjUyNTZWN3pLTHo3QlpiRzRIdEhNcm85RVpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWnVkcEZpRG4="
+            }, {
+               "date_added": "13192077808000000",
+               "guid": "e9ee5a4e-3e37-4917-a9a2-979af8471dd9",
+               "id": "13",
+               "name": "一个通用数据库管理工具的研究与实现 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2008&filename=JSTY200801005&v=MDM4MjFyQ1VSTE9mWnVkcEZpRG5VTDNNTHo3ZmQ3RzRIdG5Ncm85RllZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY="
+            }, {
+               "date_added": "13192077838000000",
+               "guid": "6d971d30-d0ac-4d6c-a801-6edbf098f58a",
+               "id": "14",
+               "name": "WEB上通用数据库数据查询工具的开发方法 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2003&filename=TLJS200305006&v=MjkyNjRSTE9mWnVkcEZpRG5VYnJQTVNIQmZiRzRIdExNcW85RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1U="
+            }, {
+               "date_added": "13192077936000000",
+               "guid": "51286da2-eb84-4d5f-8d2d-576d87828824",
+               "id": "15",
+               "name": "通用数据库管理工具 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2009&filename=2008122672.nh&v=MjY2Mzc3L0JWMTI3RnJLNkhOZkxyWkViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZadWRwRmlEblU="
+            }, {
+               "date_added": "13192077961000000",
+               "guid": "a2f0eebe-2c6b-4cff-80f8-ded4a8c9bada",
+               "id": "16",
+               "name": "基于JDBC的通用数据库访问和星表录入工具 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=YTWT201201011&v=MTI5MzVUcldNMUZyQ1VSTE9mWnVkcEZpRG5VcnpJUERuY2VyRzRIOVBNcm85RVpZUjhlWDFMdXhZUzdEaDFUM3E="
+            }, {
+               "date_added": "13192078196000000",
+               "guid": "540c26be-5d15-4580-b886-da30e1d228a7",
+               "id": "17",
+               "name": "通用数据库自动报表工具的原理与实现 - 中国知网",
+               "type": "url",
+               "url": "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=YTSZ504.014&v=MDc5MDZ1ZVllZHZGaURuVUE9PVBEbllkTGE0R3MvTXJvc3FGNTRPZmdnNXpoQVU0amg0T1g2VHJIMDNlYk9kUmI="
+            }, {
+               "date_added": "13192172678000000",
+               "guid": "6211fb50-48d2-4b74-8732-89c80e51d916",
+               "id": "18",
+               "name": "如何搭建一个vue项目 - 请叫我淑女好吧 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/yanxulan/p/8978732.html"
+            }, {
+               "date_added": "13192181683000000",
+               "guid": "8b00b21b-fc8e-46fd-8adf-915b1d0cb3ea",
+               "id": "19",
+               "name": "Nginx Windows详细安装部署教程 - taiyonghai - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/taiyonghai/p/9402734.html"
+            }, {
+               "date_added": "13192182942000000",
+               "guid": "7c998038-ebf7-47ad-97b1-4afbb0c7ba87",
+               "id": "20",
+               "name": "项目目录：Vue.js学习-搭建一个简单的demo - ch648966459的专栏 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/ch648966459/article/details/79309317"
+            }, {
+               "date_added": "13192183035000000",
+               "guid": "407ec28c-4c12-4cd5-acd8-fbe702b04727",
+               "id": "21",
+               "name": "一个实际的案例介绍Spring Boot + Vue 前后端分离 - nele - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/nele/p/7858581.html"
+            }, {
+               "date_added": "13192186874000000",
+               "guid": "315e4e76-a2f3-4c58-9359-d75fdee298d7",
+               "id": "22",
+               "name": "H2数据库使用 详解 - chuquan.ou - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/langtianya/p/3807639.html"
+            }, {
+               "date_added": "13192188674000000",
+               "guid": "d88a7a58-ab94-482a-bfb9-40b7438ead3a",
+               "id": "23",
+               "name": "vue项目打包步骤 - 从零出发 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_41115965/article/details/80796310"
+            }, {
+               "date_added": "13192189931000000",
+               "guid": "7b803116-432d-40c0-aafc-2a5aaf767e4e",
+               "id": "24",
+               "name": "使用Spring Boot进行Java EE开发 - Hopefully Sky的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/fuzhongmin05/article/details/73294613"
+            }, {
+               "date_added": "13192195918000000",
+               "guid": "55dad68c-18d2-432c-9d7a-206cc951208f",
+               "id": "25",
+               "name": "Springboot+Vue 的前后端分离与合并方案 - 畅聊架构 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/ax8785r8c32nef593/article/details/78643866"
+            }, {
+               "date_added": "13192210879000000",
+               "guid": "4c1278a1-c7b7-4da0-8a0f-ad61ed7d246b",
+               "id": "26",
+               "name": "一个强大的代码自动生成工具 - ldh_123的个人空间 - 开源中国",
+               "type": "url",
+               "url": "https://my.oschina.net/u/1028496/blog/1838975"
+            }, {
+               "date_added": "13192250939000000",
+               "guid": "2dcc793e-934d-4ff3-9888-5b4f8192f79b",
+               "id": "27",
+               "name": "新建maven项目时没有出现src/main/java和src/test/java目录的解决方法 - xiangwangxiangwang的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/xiangwangxiangwang/article/details/78392456"
+            }, {
+               "date_added": "13192272694000000",
+               "guid": "6bb6ec81-181f-4aa9-9d04-24881029999c",
+               "id": "28",
+               "name": "基于SpringBoot开发一个Restful服务，实现增删改查功能 - 虚无境的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qazwsxpcm/article/details/79028689"
+            }, {
+               "date_added": "13192275113000000",
+               "guid": "f87f5913-3e91-4faa-8f07-232849437a75",
+               "id": "29",
+               "name": "nginx反向代理-解决前端跨域问题 - 一品码农 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/renjing/p/6394725.html"
+            }, {
+               "date_added": "13192275120000000",
+               "guid": "5034647c-1d95-4c28-af76-35316c054e59",
+               "id": "30",
+               "name": "利用nginx 反向代理解决跨域问题 - 学而知之 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/bninp/p/5694277.html"
+            }, {
+               "date_added": "13192510199000000",
+               "guid": "798cb3e3-cc70-45f4-988a-52ce06d5b882",
+               "id": "31",
+               "name": "GitHub - xuwujing/springBoot-study: SpringBoot学习的相关工程。主要包括入门的Hello World、自定义配置的获取、集成mybatis的xml和注解使用、集成jpa的使用、集成druid进行项目的监控、 项目打包、使用logback日志文件管理、添加过滤器和拦截器、多数据源、Restful风格的服务、集成elasticsearch、redis、netty、集成jsp和thymeleaf、集成storm、kafka等相关技术。",
+               "type": "url",
+               "url": "https://github.com/xuwujing/springBoot-study"
+            }, {
+               "date_added": "13192527403000000",
+               "guid": "63385947-c6d3-49df-85a2-9c0701241864",
+               "id": "32",
+               "name": "Spring Boot 揭秘与实战（七） 实用技术篇 - FreeMarker 模板引擎 | 梁桂钊的博客",
+               "type": "url",
+               "url": "http://blog.720ui.com/2017/springboot_07_othercore_freemarker/"
+            }, {
+               "date_added": "13192530695000000",
+               "guid": "3e3681f1-7d30-451a-8110-9e1bf573bc73",
+               "id": "33",
+               "name": "javascript - java: 程序包org.apache.ibatis.annotations不存在,已经引进了，为什么还报错呢 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000014796030"
+            }, {
+               "date_added": "13192536234000000",
+               "guid": "fd47e9ea-8002-47e2-b12b-be6e8b0945ef",
+               "id": "34",
+               "name": "Postman 安装及使用入门教程 - Mafly - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/mafly/p/postman.html"
+            }, {
+               "date_added": "13192592822000000",
+               "guid": "5369005e-9b3f-44eb-9a46-10ffd596842d",
+               "id": "35",
+               "name": "spring-boot项目搭建三（mybatis不用xml方式） - 青蛙的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/chenpuzhen/article/details/80524576"
+            }, {
+               "date_added": "13192596877000000",
+               "guid": "633faaa5-36af-4a3b-83fb-e6a8ee1e890d",
+               "id": "36",
+               "name": "06：SpringBoot整合FreeMarker模板",
+               "type": "url",
+               "url": "http://baijiahao.baidu.com/s?id=1605113844166422567&wfr=spider&for=pc"
+            }, {
+               "date_added": "13192599389000000",
+               "guid": "a54618cd-554b-45bb-937c-019ad85b05e9",
+               "id": "37",
+               "name": "name-value记另类Request method 'GET' not supported - 坤哥的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_35981283/article/details/60138211"
+            }, {
+               "date_added": "13192616234000000",
+               "guid": "5863da60-3e9a-4466-b99c-4a01f6e4146d",
+               "id": "38",
+               "name": "泥瓦匠 Springboot 整合 Mybatis 的完整 Web 案例 | 泥瓦匠-右侧关注我的公众号吧",
+               "type": "url",
+               "url": "https://www.bysocket.com/?p=1610"
+            }, {
+               "date_added": "13192687135000000",
+               "guid": "21f2796e-fdca-492b-a0fa-33999c3aa3bb",
+               "id": "39",
+               "name": "spring boot整合vue项目 - u014098584的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u014098584/article/details/78912378"
+            }, {
+               "date_added": "13192706482000000",
+               "guid": "168bc82c-7a78-43a3-8b8f-a73501eb718d",
+               "id": "40",
+               "name": "vue跨域访问spring rest服务 - sutonline的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/kang389110772/article/details/75305261"
+            }, {
+               "date_added": "13192765062000000",
+               "guid": "fb2bd6db-62ca-4d7c-9542-3240a0ab7416",
+               "id": "41",
+               "name": "在 VS Code 中调试 — Vue.js",
+               "type": "url",
+               "url": "https://cn.vuejs.org/v2/cookbook/debugging-in-vscode.html"
+            }, {
+               "date_added": "13192770425000000",
+               "guid": "d5fe9578-beaa-4c3c-ab13-0a047e1139bf",
+               "id": "42",
+               "name": "Vue中Axios api 接口调用和Form表单提交 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/e657c954017f"
+            }, {
+               "date_added": "13192796111000000",
+               "guid": "f11aa77d-8445-439e-8a6a-84a93b091bf3",
+               "id": "43",
+               "name": "DotNetAge/vue-in-action: 《Vue 实践揭秘》",
+               "type": "url",
+               "url": "https://github.com/DotNetAge/vue-in-action"
+            }, {
+               "date_added": "13193221081000000",
+               "guid": "5965e3a0-2913-410e-b2f1-f1d4f877f3ea",
+               "id": "44",
+               "name": "jonashackt/spring-boot-vuejs: Example project showing how to build a Spring Boot App providing a GUI with Vue.js",
+               "type": "url",
+               "url": "https://github.com/jonashackt/spring-boot-vuejs#project-setup"
+            }, {
+               "date_added": "13193222467000000",
+               "guid": "8da4e861-ca71-4a9f-8733-97f4d6b344d8",
+               "id": "45",
+               "name": "vue axios全攻略 - 最骚的就是你 - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/libin-1/p/6607945.html"
+            }, {
+               "date_added": "13195128941000000",
+               "guid": "e2e7e50f-01f1-4649-b4c0-8099f4ebea03",
+               "id": "46",
+               "name": "java创建多级目录以及文件 - 杨成勇 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/y_chengyong/article/details/12832407"
+            }, {
+               "date_added": "13195207438000000",
+               "guid": "6608862a-033e-43aa-aa51-cdd9ac850b39",
+               "id": "47",
+               "name": "mysql查询指定表的表结构及主键字段名 - steven.yang - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_33696345/article/details/84101652"
+            }, {
+               "date_added": "13195216035000000",
+               "guid": "89742eee-1427-432d-9604-254eb96d4cc7",
+               "id": "48",
+               "name": "MySQL :: MySQL 5.7 Reference Manual :: 13.7.5.5 SHOW COLUMNS Syntax",
+               "type": "url",
+               "url": "https://dev.mysql.com/doc/refman/5.7/en/show-columns.html"
+            }, {
+               "date_added": "13195913132000000",
+               "guid": "1c7705a1-b236-46f0-89e3-40205d25ead5",
+               "id": "49",
+               "name": "vuex的学习例子 - 菜鸟正在进化 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/qiu-Ann/p/7483205.html"
+            } ],
+            "date_added": "13241027108844692",
+            "date_modified": "0",
+            "guid": "7251e29f-b567-4106-831d-8f1d2d253d93",
+            "id": "8",
+            "name": "通用增删改查",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13194494813000000",
+               "guid": "ae74d17d-de77-46c1-bdc7-a1328fad9430",
+               "id": "51",
+               "name": "实用工具 Wox - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/8fd212f5c01f"
+            }, {
+               "date_added": "13194495039000000",
+               "guid": "1d1ba174-fcec-4aa0-bf5e-8f6a60f66331",
+               "id": "52",
+               "name": "Wox，可能是Windows下最好的类Alfred工具 - 菊部制造",
+               "type": "url",
+               "url": "https://www.jubuzz.com/geek/598.html"
+            }, {
+               "date_added": "13194495277000000",
+               "guid": "e22659e1-60b7-4a10-8dc9-ba31836a6482",
+               "id": "53",
+               "name": "Everything使用指南 - Quincylk的专栏 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/quincylk/article/details/8266338"
+            }, {
+               "date_added": "13194579606000000",
+               "guid": "7d040003-79d7-4025-8b01-7f9a4c17fe84",
+               "id": "54",
+               "name": "码农神器集 - 创业团队软件技术负责人（C++/Qt资深开发者，项目驱动、实战主义技术研究者） - 逆风微光 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/dpsying/column/info/13988"
+            }, {
+               "date_added": "13194926679000000",
+               "guid": "4be6ce48-7ae8-43e0-9408-63a69b5dec52",
+               "id": "55",
+               "name": "Vimium - the hacker's browser",
+               "type": "url",
+               "url": "http://vimium.github.io/"
+            }, {
+               "date_added": "13194927058000000",
+               "guid": "4084770d-3dcf-4dca-88b1-59a550878dbd",
+               "id": "56",
+               "name": "vimium/README.md at master · philc/vimium",
+               "type": "url",
+               "url": "https://github.com/philc/vimium/blob/master/README.md"
+            }, {
+               "date_added": "13194929192000000",
+               "guid": "e466c8bf-7cb9-423d-9933-8d357c9411ed",
+               "id": "57",
+               "name": "谷歌浏览器（chrome） —— 扩展应用程序 - Zhang's Wikipedia - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/lanchunhui/article/details/52261775"
+            }, {
+               "date_added": "13195707196000000",
+               "guid": "92ee6571-3e37-45c9-bfe0-d1bc9ed59914",
+               "id": "58",
+               "name": "philc/vimium: The hacker's browser.",
+               "type": "url",
+               "url": "https://github.com/philc/vimium"
+            }, {
+               "date_added": "13198151254000000",
+               "guid": "9c7e1626-6e61-4e10-838d-ba4c58122976",
+               "id": "59",
+               "name": "Releases · persepolisdm/persepolis · GitHub",
+               "type": "url",
+               "url": "https://github.com/persepolisdm/persepolis/releases"
+            }, {
+               "date_added": "13198151309000000",
+               "guid": "3ebaccee-fbf6-40d5-ba18-c3e153c9cf3c",
+               "id": "60",
+               "name": "Home en · persepolisdm/persepolis Wiki · GitHub",
+               "type": "url",
+               "url": "https://github.com/persepolisdm/persepolis/wiki/Home-en#plugins"
+            }, {
+               "date_added": "13198152043000000",
+               "guid": "026196c6-eb19-4317-b36a-a6e2449b9bea",
+               "id": "61",
+               "name": "aria2",
+               "type": "url",
+               "url": "https://aria2.github.io/"
+            }, {
+               "date_added": "13198153176000000",
+               "guid": "e5135838-ed44-482f-a27f-125b95633c7b",
+               "id": "62",
+               "name": "Listen 1 音乐播放器",
+               "type": "url",
+               "url": "http://listen1.github.io/listen1/"
+            }, {
+               "date_added": "13198170141000000",
+               "guid": "71607932-dbf9-47e4-902c-c3b59a1ab726",
+               "id": "63",
+               "name": "Releases · listen1/listen1_desktop · GitHub",
+               "type": "url",
+               "url": "https://github.com/listen1/listen1_desktop/releases"
+            }, {
+               "date_added": "13198216716000000",
+               "guid": "1e6be8a9-44e2-49f8-92fb-419793c66d7f",
+               "id": "64",
+               "name": "Motrix",
+               "type": "url",
+               "url": "https://motrix.app/"
+            }, {
+               "date_added": "13198220894000000",
+               "guid": "1ff28caf-6f04-43a4-8d4a-95bc637ad788",
+               "id": "65",
+               "name": "Releases · agalwood/Motrix",
+               "type": "url",
+               "url": "https://github.com/agalwood/Motrix/releases"
+            }, {
+               "date_added": "13237289812000000",
+               "guid": "e270f9f6-b7cb-4874-98a0-99c7bf39cff6",
+               "id": "66",
+               "name": "Snipaste - 截图 + 贴图",
+               "type": "url",
+               "url": "https://zh.snipaste.com/"
+            } ],
+            "date_added": "13241027108847219",
+            "date_modified": "0",
+            "guid": "90670898-a099-4434-bed9-af0527fd9acb",
+            "id": "50",
+            "name": "小工具",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13194955468000000",
+               "guid": "9bae4f91-6ff7-4387-a68f-929388f2c7c4",
+               "id": "68",
+               "name": "mybatis获取链接元数据 - shenxian251的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/shenxian251/article/details/85103842"
+            }, {
+               "date_added": "13195272245000000",
+               "guid": "e6f1395a-51db-47b4-bcd6-5588621b7d51",
+               "id": "69",
+               "name": "MyBatis传入多个参数的问题 - mingyue1818 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/mingyue1818/p/3714162.html"
+            }, {
+               "date_added": "13195272879000000",
+               "guid": "39e10541-e25b-44c8-a3c6-617bfa736945",
+               "id": "70",
+               "name": "关于Mybatis的@Param注解 及 mybatis Mapper中各种传递参数的方法 - 戈博折刀 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/libin6505/p/10036765.html"
+            }, {
+               "date_added": "13195635196000000",
+               "guid": "c2d884a6-10da-4235-9ac0-1962fbb16566",
+               "id": "71",
+               "name": "mybatis – MyBatis 3 | 简介",
+               "type": "url",
+               "url": "http://www.mybatis.org/mybatis-3/zh/index.html"
+            }, {
+               "date_added": "13196422682000000",
+               "guid": "4b39bfc2-c5db-41a4-a738-cf56e3817d8b",
+               "id": "72",
+               "name": "SpringBoot+Mybatis 自动创建数据表 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/25db002b0367"
+            }, {
+               "date_added": "13196484063000000",
+               "guid": "5c257956-25f2-40ea-b3ff-42ecb1d668b2",
+               "id": "73",
+               "name": "SpringBoot+Mybatis 自动创建数据表 - Felix_阳的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/aa1215018028/article/details/80759311"
+            }, {
+               "date_added": "13196485542000000",
+               "guid": "13d4581f-5813-4638-b453-bc28cb16e510",
+               "id": "74",
+               "name": "·",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_23967965/article/details/83111846"
+            } ],
+            "date_added": "13241027108848010",
+            "date_modified": "0",
+            "guid": "e95113b8-c552-4ecb-b397-1828e0d4144a",
+            "id": "67",
+            "name": "mybatis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13195533449000000",
+               "guid": "0eec4e2f-e49a-4586-830b-d52a1d403519",
+               "id": "76",
+               "name": "程序员必读书单 1.0 | lucida",
+               "type": "url",
+               "url": "http://zh.lucida.me/blog/developer-reading-list/#algorithm_data_structure"
+            }, {
+               "date_added": "13195533543000000",
+               "guid": "a9f52241-3fb0-422c-be84-3b07e0ee1f15",
+               "id": "77",
+               "name": "Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne",
+               "type": "url",
+               "url": "https://algs4.cs.princeton.edu/home/"
+            }, {
+               "children": [ {
+                  "date_added": "13195561273000000",
+                  "guid": "66ef335c-6d00-4530-bc00-e7b8d4d83d98",
+                  "id": "79",
+                  "name": "Eclipse直接运行算法第4版例子（重定向和读取指定路径文件） - Molin的专栏 - CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/molin4/article/details/55107246"
+               } ],
+               "date_added": "13241027108848933",
+               "date_modified": "0",
+               "guid": "c163ce11-a272-4109-a0e7-1c625eede8dc",
+               "id": "78",
+               "name": "算法第四版",
+               "type": "folder"
+            }, {
+               "date_added": "13241171148053251",
+               "guid": "e38568c6-92cc-45e5-bba9-28bbcab1bc12",
+               "id": "257",
+               "name": "《HTTP权威指南 (图灵程序设计丛书 69)》 David Gourley, Brian Totty, Marjorie Sayer, Sailu Reddy, Aushu Aggarwal, 陈涓, 赵振平 书评 简介 电子书下载 Kindle电子书",
+               "type": "url",
+               "url": "https://www.amazon.cn/dp/B00M2DKYRC/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=http&qid=1596696832&s=books&sr=1-1"
+            } ],
+            "date_added": "13241027108848530",
+            "date_modified": "13241496846550677",
+            "guid": "ccc02485-f639-4e68-b658-3f1a509bbf34",
+            "id": "75",
+            "name": "编程书单",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13195809748000000",
+               "guid": "554e1891-4839-452d-b701-08d01b159a93",
+               "id": "81",
+               "name": "Java枚举类 - m0_38090156的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/m0_38090156/article/details/79101226"
+            }, {
+               "date_added": "13196250401000000",
+               "guid": "5131a92e-5bcf-49d4-899e-6b324bfbd1fc",
+               "id": "82",
+               "name": "【JAVA】浅谈java枚举类 - grace_sister - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/sister/p/4700702.html"
+            } ],
+            "date_added": "13241027108849006",
+            "date_modified": "0",
+            "guid": "42056375-6de1-415e-8965-1e4b1a424a55",
+            "id": "80",
+            "name": "java基础",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13194320578000000",
+               "guid": "3cc9dcc6-8a4d-460c-b2ad-3c87f55347a1",
+               "id": "84",
+               "name": "使用freemarker生成java文件(其他文件也可以) - 衰草寒烟 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/xiaopan-cp9/p/9566712.html"
+            }, {
+               "date_added": "13194320599000000",
+               "guid": "de85afd0-1b40-4a8f-8120-c14fc8405b45",
+               "id": "85",
+               "name": "MP实战系列(六)之代码生成器讲解 - 挑战者V - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/youcong/p/9043051.html"
+            }, {
+               "date_added": "13194327325000000",
+               "guid": "d6b58ab7-e2a0-45d5-b761-f250d5fc1723",
+               "id": "86",
+               "name": "Java之利用Freemarker模板引擎实现代码生成器，提高效率 - 阿毅 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/huangwenyi1010/article/details/71249258"
+            }, {
+               "date_added": "13194327783000000",
+               "guid": "1004b35e-9c06-40d2-a8b2-c42198bdc1d0",
+               "id": "87",
+               "name": "一个java代码生成器的简单实现 - 蛋导的平凡之路 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qiyongkang520/article/details/50822010"
+            }, {
+               "date_added": "13194341334000000",
+               "guid": "1bf82ac1-1aac-412a-a61c-b016fe13f99b",
+               "id": "88",
+               "name": "Freemarker模板自动生成java代码 - MyNoteBlog的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/MyNoteBlog/article/details/73572769"
+            }, {
+               "date_added": "13194342872000000",
+               "guid": "8faf3e02-3aaa-4451-8184-6fc7ea041bf9",
+               "id": "89",
+               "name": "使用freemarker编写代码生成器 - 风情 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/fengqing5578/article/details/80335043"
+            }, {
+               "date_added": "13194350725000000",
+               "guid": "80a226c5-a07e-43d8-ad96-0e9ef6dae1a5",
+               "id": "90",
+               "name": "freemarker遍历list处理第一个、最后一个元素 - ★【Core Moshow 郑锴】★ - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/moshowgame/article/details/82744463"
+            }, {
+               "date_added": "13194409377000000",
+               "guid": "c655f113-804b-44c6-93fa-6556865c7ae5",
+               "id": "91",
+               "name": "MybatisBuild/src/main/resources/template at master · lengyuedaidai/MybatisBuild",
+               "type": "url",
+               "url": "https://github.com/lengyuedaidai/MybatisBuild/tree/master/src/main/resources/template"
+            }, {
+               "date_added": "13194431996000000",
+               "guid": "1f7051b9-e5d2-4b10-9dfb-bf1a524f7626",
+               "id": "92",
+               "name": "freemarker常见语法大全，灰常有用！ - 猪哥 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u014044812/article/details/51218216"
+            }, {
+               "date_added": "13194610907000000",
+               "guid": "7d372ae8-9f27-4b2e-82ee-ffb5b68aaf6a",
+               "id": "93",
+               "name": "模板一览 - FreeMarker 中文官方参考手册",
+               "type": "url",
+               "url": "http://freemarker.foofun.cn/dgui_quickstart_template.html"
+            } ],
+            "date_added": "13241027108849505",
+            "date_modified": "0",
+            "guid": "c2694789-e04e-4043-b084-88ca189d6899",
+            "id": "83",
+            "name": "freemarker",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13197347146000000",
+               "guid": "4645284a-133c-4394-b1c1-24b952fb95e5",
+               "id": "95",
+               "name": "组件 | Element",
+               "type": "url",
+               "url": "http://element-cn.eleme.io/#/zh-CN/component/form"
+            }, {
+               "date_added": "13197363742000000",
+               "guid": "fdc235db-7783-4129-bab8-4f964552af01",
+               "id": "96",
+               "name": "js判断对象是否为空",
+               "type": "url",
+               "url": "https://blog.csdn.net/zjw0742/article/details/74217090"
+            }, {
+               "date_added": "13197433044000000",
+               "guid": "82323a68-c088-4e3b-814f-0428b266b40a",
+               "id": "97",
+               "name": "ajax和axios、fetch的区别 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/8bc48f8fde75"
+            }, {
+               "date_added": "13198232630000000",
+               "guid": "15900900-b04d-4f62-a52c-9b552d884607",
+               "id": "98",
+               "name": "GitHub - taylorchen709/vue-admin: admin template based on vuejs2 and element.",
+               "type": "url",
+               "url": "https://github.com/taylorchen709/vue-admin"
+            }, {
+               "date_added": "13198729134000000",
+               "guid": "7742902f-8a98-4d57-82cd-e659f1ce8d11",
+               "id": "99",
+               "name": "【Vue】设置导航栏、侧边栏为公共页面 - Mr_EvanChen的Blog - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/mr_evanchen/article/details/80847724"
+            }, {
+               "date_added": "13198761198000000",
+               "guid": "75e1c702-fffd-4be9-8705-b4d689841137",
+               "id": "100",
+               "name": "招行企业文化手册（定稿） - 百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/dbeb5b3eef06eff9aef8941ea76e58fafab04567.html"
+            }, {
+               "date_added": "13199889983000000",
+               "guid": "74dd25c3-606a-4a28-8d75-0c2077983c23",
+               "id": "101",
+               "name": "如何在Github Pages搭建自己写的页面？ - 做个隐士 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/herozhi/p/6143912.html"
+            }, {
+               "date_added": "13199901307000000",
+               "guid": "609d2390-783f-46c5-bcfb-5864746af0d1",
+               "id": "102",
+               "name": "vue项目部署gitHub教程，如何创建github服务器 - 搁浅_9527 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_38903950/article/details/78104773"
+            } ],
+            "date_added": "13241027108850653",
+            "date_modified": "0",
+            "guid": "40ee46e5-223b-4dd9-8108-02bcc3560a9b",
+            "id": "94",
+            "name": "前端",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13236938367000000",
+               "guid": "c9067b78-4cd6-4b92-8ad9-f9578dc86df1",
+               "id": "104",
+               "name": "研发云",
+               "type": "url",
+               "url": "https://idmp.bigcloudsys.cn/cas/login?service=https%3A%2F%2Fa.vpn.bigcloudsys.cn%2Fauth%2Fcas_validate%3Fentry_id%3D1"
+            }, {
+               "date_added": "13238816487000000",
+               "guid": "7a0a1443-6945-4d8f-978a-8ed13371e6fa",
+               "id": "105",
+               "name": "研发云-工具链",
+               "type": "url",
+               "url": "http://tools.bigcloudsys.cn/-8"
+            }, {
+               "date_added": "13237281047000000",
+               "guid": "93b81ab5-c58f-4129-be35-1172472a7626",
+               "id": "106",
+               "name": "5G安全专网管理平台",
+               "type": "url",
+               "url": "http://10.136.106.172:8201/sys-security/doc.html"
+            }, {
+               "date_added": "13237290867000000",
+               "guid": "02bb6604-63bb-4b0e-99b3-3e828817add3",
+               "id": "107",
+               "name": "5G安全专网管理平台localhost",
+               "type": "url",
+               "url": "http://localhost:8201/sys-upms/doc.html"
+            }, {
+               "date_added": "13237027969000000",
+               "guid": "02c3fdd6-4bc7-4527-b38f-a806edd58c18",
+               "id": "108",
+               "name": "admin后台管理系统",
+               "type": "url",
+               "url": "http://10.136.106.172:8112/main/tenant"
+            }, {
+               "date_added": "13237027974000000",
+               "guid": "ef241f3b-9801-49fd-81e0-ea5ec23d67bf",
+               "id": "109",
+               "name": "5G安全专网管理平台 密码123456",
+               "type": "url",
+               "url": "http://10.136.106.172:8111/main/system/permission/user"
+            }, {
+               "date_added": "13236947278000000",
+               "guid": "6dd8f432-d063-4651-8a22-8325ff148454",
+               "id": "110",
+               "name": "Nacos",
+               "type": "url",
+               "url": "http://localhost:8848/nacos/#/configurationManagement?serverId=center&group=&dataId=&namespace=&appName="
+            }, {
+               "date_added": "13237280920000000",
+               "guid": "a2f98161-287a-4703-b91e-44d01d27776a",
+               "id": "111",
+               "name": "Nacos服务器nacos配置",
+               "type": "url",
+               "url": "http://10.136.106.172:8848/nacos/#/configeditor?serverId=center&dataId=sys-common-config.yaml&group=DEFAULT_GROUP&namespace=&edasAppName=&edasAppId=&searchDataId=&searchGroup="
+            }, {
+               "date_added": "13239939807000000",
+               "guid": "a0c153ea-9f0d-402b-a2d3-afdf40cadd82",
+               "id": "112",
+               "name": "vpn.cdcyy.cn",
+               "type": "url",
+               "url": "https://vpn.cdcyy.cn/"
+            }, {
+               "date_added": "13236948162000000",
+               "guid": "211bcc87-9962-4a34-bf5b-2254eb2faff0",
+               "id": "113",
+               "name": "(10条消息)RabbitMQ Windows版本安装_z583773315的专栏-CSDN博客_rabbit windows",
+               "type": "url",
+               "url": "https://blog.csdn.net/z583773315/article/details/81210748"
+            }, {
+               "date_added": "13237004412000000",
+               "guid": "694a05a6-a458-44ed-8154-f8423d51e568",
+               "id": "114",
+               "name": "RabbitMQ Management",
+               "type": "url",
+               "url": "http://127.0.0.1:15672/#/"
+            }, {
+               "date_added": "13237004428000000",
+               "guid": "e567da13-32ab-4e15-b837-7662a388516d",
+               "id": "115",
+               "name": "(14条消息)Windows下RabbitMQ启动后无法访问http://localhost:15672的问题_sdgames的博客-CSDN博客_rabbitmq启动后无法访问",
+               "type": "url",
+               "url": "https://blog.csdn.net/sdgames/article/details/104267859"
+            }, {
+               "date_added": "13237004435000000",
+               "guid": "5a17ef69-27ef-4311-b668-1fc27a9de8fa",
+               "id": "116",
+               "name": "(14条消息)rabbitmq: (ArgumentError) argument error 解决办法_oito_菜鸟-CSDN博客_(argumenterror) argument error",
+               "type": "url",
+               "url": "https://blog.csdn.net/wls666/article/details/103326096"
+            }, {
+               "date_added": "13237004449000000",
+               "guid": "c5936104-1c1d-4fb8-9adc-80ed6cb7a21b",
+               "id": "117",
+               "name": "(14条消息)Win10如何更改C:\\\\Users\\\\下的用户名_oito_菜鸟-CSDN博客_win10更改用户名",
+               "type": "url",
+               "url": "https://blog.csdn.net/wls666/article/details/103334152"
+            }, {
+               "date_added": "13237023724000000",
+               "guid": "1fc8ff0f-d514-4a3b-8c00-0403a2ed9352",
+               "id": "118",
+               "name": "Windows 平台安装 MongoDB | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/mongodb/mongodb-window-install.html"
+            }, {
+               "date_added": "13237268883000000",
+               "guid": "064274cb-62b4-4bb3-86de-b8f6a54f0c92",
+               "id": "119",
+               "name": "(13条消息)几款开源的图形化Redis客户端管理软件推荐_山海皆可平z-CSDN博客_redis 客户端推荐",
+               "type": "url",
+               "url": "https://blog.csdn.net/zhangchilei/article/details/49990937?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase"
+            }, {
+               "date_added": "13237268913000000",
+               "guid": "8769db3c-5fc1-47f6-84c0-905522f067c0",
+               "id": "120",
+               "name": "IntelliJ IDEA常用快捷键总结 - {{unidentified}} - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/unidentified/p/9182655.html"
+            }, {
+               "date_added": "13237270315000000",
+               "guid": "9b0addb8-d353-4c96-9697-52cf283196f2",
+               "id": "121",
+               "name": "ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN - ppjj - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/nizuimeiabc1/p/9669002.html"
+            }, {
+               "date_added": "13237287084000000",
+               "guid": "8248020c-a187-48b2-a5c6-5acf1e78639d",
+               "id": "122",
+               "name": "(13条消息)xmind - C:\\\\Users\\\\xxx\\\\Application Data could not be created -configuration command line option._阿泷的学习日志-CSDN博客_xmind could not be created",
+               "type": "url",
+               "url": "https://blog.csdn.net/sinat_32238399/article/details/83621768"
+            }, {
+               "children": [ {
+                  "date_added": "13237287935000000",
+                  "guid": "4e0edb4f-50cc-4ec7-b8b2-5f7d4c73b8c8",
+                  "id": "124",
+                  "name": "(13条消息)xmind的简单使用教程_安东尼-东方的博客-CSDN博客_xmind思维导图教程",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_41700629/article/details/89292807"
+               }, {
+                  "date_added": "13237286110000000",
+                  "guid": "fa57a034-ac98-4377-a2e4-be8d707fe0bd",
+                  "id": "125",
+                  "name": "(13条消息)Xmind8安装破解教程_To be a better man~-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_33326449/article/details/82428420"
+               } ],
+               "date_added": "13241027108852330",
+               "date_modified": "0",
+               "guid": "3ef1cdf0-b725-4346-b36a-f8114bfbea9a",
+               "id": "123",
+               "name": "xmind",
+               "type": "folder"
+            }, {
+               "date_added": "13237290969000000",
+               "guid": "bc71796d-e12c-4237-8688-733377b3b925",
+               "id": "126",
+               "name": "参考演示项目地址",
+               "type": "url",
+               "url": "http://www.macrozheng.com/#/architect/mall_arch_09"
+            }, {
+               "date_added": "13237348582000000",
+               "guid": "e6b74953-43f7-4abd-8b30-6dfd0da82e00",
+               "id": "127",
+               "name": "浅析 VO、DTO、DO、PO 的概念、区别和用处！",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDEyMzIzOA==&mid=2247484579&idx=2&sn=2540c6cb3bab116f49f1103702ddf0d8&chksm=fc4e87aacb390ebc7513df6e5185586981e853cfa3cd6cd216df4bb05bdc18728a5aa25d2c00&mpshare=1&scene=1&srcid=&sharer_sharetime=1592874936377&sharer_shareid=0ce5e7c145a52402e132f3b02b92dea3&key=1e758dfedc4d5b900a509a6b98fa806167eb4e8b385bbb9a3c6c8925cb58284939b6d93d10d1f8b463e086f725bc1954b36f9a70706e98bf693a3b5a9e182a6aac174bf2f3bf97b57ba0788c2fd3f5c2&ascene=1&uin=MTkzNzc4MTQxOQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A%2B0TzM3GkDuwiqT4vX1JCsg%3D&pass_ticket=qxB60eZxUO9xgkcr2lqY2ac2tZE4c9opAoQa8J5Psu9WPXtopDtABVldAAeSVIKx"
+            }, {
+               "date_added": "13237351678000000",
+               "guid": "fd6b6028-8132-4742-b5cf-457f1457cce0",
+               "id": "128",
+               "name": "Mybatis逆向工程中生成的Example类_编程小透明的博客-CSDN博客_mybatis逆向工程生成的example详解",
+               "type": "url",
+               "url": "https://blog.csdn.net/Nerver_77/article/details/79707190"
+            }, {
+               "date_added": "13237352064000000",
+               "guid": "0fde5020-12db-427f-8489-b275605debfa",
+               "id": "129",
+               "name": "(3 条消息) Windows下有哪些录屏软件推荐？ - 知乎",
+               "type": "url",
+               "url": "https://www.zhihu.com/question/28942486/answer/939002859"
+            }, {
+               "date_added": "13237356483000000",
+               "guid": "e9acf05c-4fbb-4705-a50d-88aefbc83a6e",
+               "id": "130",
+               "name": "mybatis 生成的mapper里面updateByPrimaryKeySelective 和updateByPrimaryKey的区别 - 极客分享",
+               "type": "url",
+               "url": "https://www.geek-share.com/detail/2732786887.html"
+            }, {
+               "date_added": "13237373676000000",
+               "guid": "5ea0d7c9-e8a7-4472-9930-d0f7cb867a7b",
+               "id": "131",
+               "name": "(13条消息)查看spring-boot-starter-parent 指定的其他包的版本_littlehaes的博客-CSDN博客_spring-boot-starter-parent版本",
+               "type": "url",
+               "url": "https://blog.csdn.net/littlehaes/article/details/104616501"
+            }, {
+               "date_added": "13237375127000000",
+               "guid": "2f78f4e1-28f0-458d-8803-f1627730f3ba",
+               "id": "132",
+               "name": "(13条消息)IDEA如何显示 run dashboard_feixiangsmile的博客-CSDN博客_idea dashboard",
+               "type": "url",
+               "url": "https://blog.csdn.net/feixiangsmile/article/details/96908744"
+            }, {
+               "date_added": "13237375315000000",
+               "guid": "5a80c2ab-e243-495a-ab90-1344fff418a6",
+               "id": "133",
+               "name": "RabbitMQ使用教程(超详细)_城北荆无命的博客-CSDN博客_rabbitmq使用教程",
+               "type": "url",
+               "url": "https://blog.csdn.net/lzx1991610/article/details/102970854"
+            }, {
+               "date_added": "13237375877000000",
+               "guid": "c46c7722-8f48-4566-8b8f-c71db8bedb72",
+               "id": "134",
+               "name": "RabbitMQ消息中间件极速入门与实战-慕课网",
+               "type": "url",
+               "url": "https://www.imooc.com/learn/1042"
+            }, {
+               "date_added": "13237377374000000",
+               "guid": "7ab6be32-f63e-4024-975d-e091e3aa7803",
+               "id": "135",
+               "name": "芋道 RabbitMQ 极简入门 | 芋道源码 —— 纯源码解析博客",
+               "type": "url",
+               "url": "http://www.iocoder.cn/RabbitMQ/install/?github"
+            }, {
+               "date_added": "13237378892000000",
+               "guid": "76cfb6a5-1cf7-409f-90a1-27267b30833f",
+               "id": "136",
+               "name": "YunaiV/SpringBoot-Labs: 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+               "type": "url",
+               "url": "https://github.com/YunaiV/SpringBoot-Labs#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-mq-%E4%B8%93%E6%A0%8F"
+            }, {
+               "children": [ {
+                  "date_added": "13237890350000000",
+                  "guid": "6656dd86-c1e9-4694-89a3-e5bd329dc0a7",
+                  "id": "138",
+                  "name": "(13条消息)springcloud_p812438109的专栏_ouyangjun__-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/p812438109/category_7443805.html"
+               } ],
+               "date_added": "13241027108852952",
+               "date_modified": "0",
+               "guid": "56f9a265-448d-4233-88a9-da0cf4e5fff2",
+               "id": "137",
+               "name": "springcloud",
+               "type": "folder"
+            }, {
+               "date_added": "13238491809000000",
+               "guid": "e498f321-e3db-4647-b089-7d4be02b1d64",
+               "id": "139",
+               "name": "MyBatisPlus学习整理（一） - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/12ec123d20e8"
+            }, {
+               "date_added": "13238494279000000",
+               "guid": "73d86c7b-00a3-40ba-9bde-1292069d3d5f",
+               "id": "140",
+               "name": "数据字典-若依管理系统",
+               "type": "url",
+               "url": "http://vue.ruoyi.vip/system/dict"
+            }, {
+               "date_added": "13238673946000000",
+               "guid": "e751fae5-7cf8-4e2b-9328-cfe51355ca39",
+               "id": "141",
+               "name": "中国移动网上大学",
+               "type": "url",
+               "url": "https://wangda.chinamobile.com/#/home"
+            }, {
+               "date_added": "13239170058000000",
+               "guid": "0b10060d-f341-492a-8826-8f6f1ac13d34",
+               "id": "142",
+               "name": "2020年劳保兑换活动",
+               "type": "url",
+               "url": "https://jxi-fuli-pc.jd.com/#/"
+            }, {
+               "children": [ {
+                  "date_added": "13239773475000000",
+                  "guid": "2499083a-d423-4adb-848a-39468b85ba06",
+                  "id": "144",
+                  "name": "(13条消息)清除本地redis缓存_qiuqiang748的博客-CSDN博客_清除本地redis缓存",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qiuqiang748/article/details/97367384"
+               } ],
+               "date_added": "13241027108853120",
+               "date_modified": "0",
+               "guid": "09b61385-d101-4141-8fae-ce39b13ef044",
+               "id": "143",
+               "name": "redis",
+               "type": "folder"
+            }, {
+               "date_added": "13239948004000000",
+               "guid": "d0096dea-b52a-4b33-a0c2-c2b4f390b803",
+               "id": "145",
+               "name": "待处理",
+               "type": "url",
+               "url": "http://oa.cdcyy.cn/jweb/portal/indexList?type=kuaiwen&menuIdentity=waitdeal"
+            }, {
+               "date_added": "13241029948047813",
+               "guid": "14637d54-8faa-4624-8fdc-11a56e5a1a5f",
+               "id": "252",
+               "name": "MySQL压缩版的安装详细步骤",
+               "type": "url",
+               "url": "https://baijiahao.baidu.com/s?id=1630347658327095638&wfr=spider&for=pc"
+            } ],
+            "date_added": "13241027108851504",
+            "date_modified": "13241083052715970",
+            "guid": "bdcaa611-6e39-4ec8-8d77-0f03190fd9e3",
+            "id": "103",
+            "name": "cmii",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13221716498000000",
+               "guid": "ffc7e471-c04c-43c8-9f8e-9b704e4ad251",
+               "id": "147",
+               "name": "百度校园招聘",
+               "type": "url",
+               "url": "https://talent.baidu.com/external/baidu/campus.html#/jobList"
+            }, {
+               "date_added": "13225696862000000",
+               "guid": "249f6971-6ecf-455e-bbfc-9a8554b178f5",
+               "id": "148",
+               "name": "中兴 2020春招招聘 - 中兴 2020春招任职要求 - 找工作上超级简历 WonderCV",
+               "type": "url",
+               "url": "https://www.wondercv.com/comp_recruit_infos/2395"
+            }, {
+               "date_added": "13226410565000000",
+               "guid": "5cb59445-5435-407b-8baa-1ff4d4686525",
+               "id": "149",
+               "name": "我的申请",
+               "type": "url",
+               "url": "http://campus.huaqin.com/Portal/Apply/Index"
+            }, {
+               "date_added": "13226753320000000",
+               "guid": "c6499df0-510c-461c-9b94-9e21c161b247",
+               "id": "150",
+               "name": "二〇二〇春季校招，中兴飞流邀您加入我们",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzI0ODAxMw==&mid=2247484219&idx=1&sn=04647a771857bed2fa7b22424245a0f2&chksm=e82068d9df57e1cf7328cb04862514d49c4b665478aeece962c39fef3b00d6d208792e80ff45&mpshare=1&scene=23&srcid=&sharer_sharetime=1582033861220&sharer_shareid=90141ce6546288f897f68f4f36b5a210#rd"
+            }, {
+               "date_added": "13226839665000000",
+               "guid": "fa70d807-91fb-4f32-a957-a7e48fdd928d",
+               "id": "151",
+               "name": "江苏省2020届高校毕业生春季网络招聘会",
+               "type": "url",
+               "url": "http://www.91job.org.cn/jobfair91/view/id/39753"
+            }, {
+               "date_added": "13227358386000000",
+               "guid": "49f10e32-423d-4738-a18b-b1e946d5b489",
+               "id": "152",
+               "name": "刺猬求职-刺猬实习-深受信赖的实习招聘平台",
+               "type": "url",
+               "url": "https://www.ciweishixi.com/internship/job?jobid=176129"
+            }, {
+               "date_added": "13228064202000000",
+               "guid": "311dedd3-3af3-4200-9ac9-15da06297c2f",
+               "id": "153",
+               "name": "下月起个税起征点提高！一图看懂你的工资单将发生啥变化",
+               "type": "url",
+               "url": "http://www.chinatax.gov.cn/chinatax/n810341/n2340339/c3768198/content.html"
+            }, {
+               "date_added": "13228064212000000",
+               "guid": "7a04ae8e-3dbe-4000-abcc-5e152899f4ee",
+               "id": "154",
+               "name": "新个人所得税法过渡期热点政策问题解答",
+               "type": "url",
+               "url": "http://www.chinatax.gov.cn/chinatax/n810219/n810744/n3752930/n3761918/c3767014/content.html"
+            }, {
+               "date_added": "13228064804000000",
+               "guid": "12be1726-7277-44fd-bc03-fa4d6a6eaed4",
+               "id": "155",
+               "name": "【求职驿站】一份贴心的毕业季就业指南",
+               "type": "url",
+               "url": "http://rsj.sh.gov.cn/12333web/dzbz/wz/201904/t20190402_1295590.shtml"
+            }, {
+               "date_added": "13228306875000000",
+               "guid": "4ec68d05-851d-4e12-a5db-9603a798e284",
+               "id": "156",
+               "name": "(6条消息)计算机网络----校招笔试面试常考内容总结_网络_missTu~的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u013075024/article/details/93101757"
+            }, {
+               "date_added": "13228313971000000",
+               "guid": "81c7ae1e-230b-496a-ad56-5a7f49d08159",
+               "id": "157",
+               "name": "(6条消息)超详细十大经典排序算法总结（java代码）c或者cpp的也可以明白_网络_Top_Spirit的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_41190227/article/details/86600821"
+            }, {
+               "date_added": "13229760346000000",
+               "guid": "2f2166b9-fe3e-4273-82f2-8c35b2e51f02",
+               "id": "158",
+               "name": "百度招聘",
+               "type": "url",
+               "url": "https://talent.baidu.com/external/baidu/index.html#/jobDetail/2/151503"
+            } ],
+            "date_added": "13241027108853203",
+            "date_modified": "0",
+            "guid": "ec817bb6-1248-4c36-a1cb-282700b987ca",
+            "id": "146",
+            "name": "找工作",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240048198000000",
+               "guid": "c96a44c5-db74-4592-9df4-7160234826f5",
+               "id": "160",
+               "name": "yangyangwithgnu/hardseed: SEX IS ZERO (0), so, who wanna be the ONE (1), aha?",
+               "type": "url",
+               "url": "https://github.com/yangyangwithgnu/hardseed"
+            }, {
+               "date_added": "13240048450000000",
+               "guid": "b7d15c53-f363-4db0-97e2-08d559019879",
+               "id": "161",
+               "name": "techGay/v9porn: 9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频",
+               "type": "url",
+               "url": "https://github.com/techGay/v9porn"
+            }, {
+               "date_added": "13240154680000000",
+               "guid": "00d88a38-bf69-45b1-a244-024d3b832d02",
+               "id": "162",
+               "name": "yangyangwithgnu/goagent_out_of_box_yang: this is the newest goagent with yangyang's settings for floks who are not good at computer, yes, out of box.",
+               "type": "url",
+               "url": "https://github.com/yangyangwithgnu/goagent_out_of_box_yang"
+            }, {
+               "date_added": "13240998904000000",
+               "guid": "b3033541-c25f-46d6-86d5-e20b96e9f1ca",
+               "id": "163",
+               "name": "(13条消息)SpringBoot Controller 中使用多个@RequestBody的正确姿势_明明如月的专栏-CSDN博客_multirequestbody",
+               "type": "url",
+               "url": "https://blog.csdn.net/w605283073/article/details/82119284"
+            } ],
+            "date_added": "13241027108853951",
+            "date_modified": "0",
+            "guid": "1a2ebe88-3485-4e0c-8161-6f0e02509fe3",
+            "id": "159",
+            "name": "github",
+            "type": "folder"
+         }, {
+            "date_added": "13162104715000000",
+            "guid": "4b6721f9-af45-48fb-934f-b4677a9ff333",
+            "id": "164",
+            "name": "编程技术问答-CSDN问答频道",
+            "type": "url",
+            "url": "http://ask.csdn.net/questions?type=reward"
+         }, {
+            "date_added": "13196315237000000",
+            "guid": "661326f2-ae53-4a48-9b79-c922891950dd",
+            "id": "165",
+            "name": "办事平台",
+            "type": "url",
+            "url": "http://jwc.seu.edu.cn/bspt/list.htm"
+         }, {
+            "date_added": "13179059683000000",
+            "guid": "5fe85f7d-f9e6-454c-8c2e-f23e0014c4ed",
+            "id": "166",
+            "name": "我的关注 - 斗鱼",
+            "type": "url",
+            "url": "http://www.douyu.com/directory/myFollow"
+         }, {
+            "date_added": "13185712481000000",
+            "guid": "e637b002-9ac1-43b5-9eb0-b2a7d97b6d58",
+            "id": "167",
+            "name": "星际争霸/战术 - 萌娘百科 万物皆可萌的百科全书",
+            "type": "url",
+            "url": "https://zh.moegirl.org/%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8/%E6%88%98%E6%9C%AF"
+         }, {
+            "date_added": "13189508684000000",
+            "guid": "d1cd55ff-0c3d-454b-98c6-644ba4624772",
+            "id": "168",
+            "name": "合作模式全指挥官各流派打法及应对类型一览 _星际2资讯 _太平洋游戏网",
+            "type": "url",
+            "url": "http://sc2.pcgames.com.cn/629/6296353.html"
+         }, {
+            "date_added": "13190932297000000",
+            "guid": "f339d766-2350-4544-be76-56cef7be315e",
+            "id": "169",
+            "name": "HashMap实现原理及源码分析 - dreamcatcher-cx - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/chengxiao/p/6059914.html"
+         }, {
+            "date_added": "13151053246000000",
+            "guid": "48fbec93-4590-4f23-902e-e505f55ebcc6",
+            "id": "170",
+            "name": "慕测平台",
+            "type": "url",
+            "url": "http://www.mooctest.net/login2"
+         }, {
+            "date_added": "13191924799000000",
+            "guid": "9070e8e5-0433-4d5f-963e-edbf28f8e048",
+            "id": "171",
+            "name": "Eclipse配置maven环境 - 彭艳 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/pengyan-9826/p/7767070.html"
+         }, {
+            "date_added": "13191930886000000",
+            "guid": "8d4907da-f64c-4ab2-8b25-da771a79df0b",
+            "id": "172",
+            "name": "23种设计模式全解析 - codeTao - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/geek6/p/3951677.html"
+         }, {
+            "date_added": "13191932630000000",
+            "guid": "b88431ad-47a7-400b-abef-77ccdf641d90",
+            "id": "173",
+            "name": "spring boot与spring mvc各自的优缺点",
+            "type": "url",
+            "url": "https://baijiahao.baidu.com/s?id=1609863520110720153&wfr=spider&for=pc"
+         }, {
+            "date_added": "13192864952000000",
+            "guid": "8f819908-702d-4331-9c0b-6306e6fd5459",
+            "id": "174",
+            "name": "AlphaStar Resources | DeepMind",
+            "type": "url",
+            "url": "https://deepmind.com/research/alphastar-resources/"
+         }, {
+            "date_added": "13193124291000000",
+            "guid": "11448603-442b-4190-9f89-25d129770751",
+            "id": "175",
+            "name": "整理：Visual Studio Code (vscode) 配置C、C++环境/编写运行C、C++（主要Windows、简要Linux） - 一苇以航 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/bat67/article/details/76095813"
+         }, {
+            "date_added": "13193225104000000",
+            "guid": "d3bc692f-7025-4d8a-a072-d8a4a70098d3",
+            "id": "176",
+            "name": "django（Python Web 框架）_百度百科",
+            "type": "url",
+            "url": "https://baike.baidu.com/item/django/61531?fr=aladdin"
+         }, {
+            "date_added": "13193232832000000",
+            "guid": "ad338d16-7a79-42c2-8469-771e67d939aa",
+            "id": "177",
+            "name": "不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否",
+            "type": "url",
+            "url": "https://segmentfault.com/a/1190000015597029"
+         }, {
+            "date_added": "13193309673000000",
+            "guid": "d5fac1cf-042a-40a9-810c-e4eff7707e73",
+            "id": "178",
+            "name": "jquery特效 jquery代码 jquery下载",
+            "type": "url",
+            "url": "http://sc.chinaz.com/tag_jiaoben/jquery.html"
+         }, {
+            "date_added": "13193421148000000",
+            "guid": "3227d34c-3755-486d-99d3-095f8627bb5e",
+            "id": "179",
+            "name": "MySQL8.0.13安装 - daocaoren92wq的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/daocaoren92wq/article/details/83342742"
+         }, {
+            "date_added": "13193457746000000",
+            "guid": "ea7440ba-1332-43d6-9950-3c35ae96c3b0",
+            "id": "180",
+            "name": "MySQL-mysql 8.0.11安装教程 - Laumians - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/laumians-notes/p/9069498.html"
+         }, {
+            "date_added": "13193567276000000",
+            "guid": "829f5d6a-f3e3-4352-92a2-6d48d59ce381",
+            "id": "181",
+            "name": "Java 分层设计（DAO设计模式） - 菜是原罪 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/CoderBruis/article/details/72723840"
+         }, {
+            "date_added": "13193636595000000",
+            "guid": "f89bc690-3a14-42b8-ad62-6b4eb595ebdd",
+            "id": "182",
+            "name": "OneNote 2016中的快速笔记功能_微软帮助和支持_新浪博客",
+            "type": "url",
+            "url": "http://blog.sina.com.cn/s/blog_7012320d0102wsmw.html"
+         }, {
+            "date_added": "13194786239000000",
+            "guid": "08490bd3-9d5f-426b-b701-b6ccc8c9e978",
+            "id": "183",
+            "name": "JL-小金者星际争霸直播_JL-小金者视频直播 - 虎牙直播",
+            "type": "url",
+            "url": "http://www.huya.com/xiaojinzhe"
+         }, {
+            "date_added": "13194929380000000",
+            "guid": "7dcbc390-8f57-4004-8c4e-e2e5f6f0df94",
+            "id": "184",
+            "name": "HTML如何对齐多个表单中的文本框 - GorgeousChou的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/GorgeousChou/article/details/79685139"
+         }, {
+            "date_added": "13196155317000000",
+            "guid": "91292fe0-198e-41fe-a288-4159554116ab",
+            "id": "185",
+            "name": "ppt模板 - 优品PPT",
+            "type": "url",
+            "url": "http://www.ypppt.com/p/search.php?kwtype=1&q=%E4%B8%AD%E5%9B%BD%E9%A3%8E"
+         }, {
+            "date_added": "13196224838000000",
+            "guid": "a88ca4e2-da4f-4275-95ca-77a7853f40e2",
+            "id": "186",
+            "name": "本科生英文文献翻译格式要求 - 百度文库",
+            "type": "url",
+            "url": "https://wenku.baidu.com/view/a0ba65a50975f46527d3e17d.html"
+         }, {
+            "date_added": "13197277760000000",
+            "guid": "20ac4630-bb86-43a5-808d-e57ee890ba38",
+            "id": "187",
+            "name": "基于敏捷方式的Java代码生成方法的设计-【维普官方网站】-www.cqvip.com-维普网",
+            "type": "url",
+            "url": "http://www.cqvip.com/Main/Detail.aspx?id=30757422"
+         }, {
+            "date_added": "13199344120000000",
+            "guid": "96374c5b-cf7b-4399-89c0-2fd2b12c4698",
+            "id": "188",
+            "name": "创建版本库 - 廖雪峰的官方网站",
+            "type": "url",
+            "url": "https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000"
+         }, {
+            "date_added": "13197462302000000",
+            "guid": "6195fcbe-f24f-4a3f-8a15-1494604dafa1",
+            "id": "189",
+            "name": "reco-fetch - recoLuan - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/recoluan/article/details/82695674"
+         }, {
+            "date_added": "13197697503000000",
+            "guid": "eeda2cd3-b437-473a-be4a-52dd5f0d0976",
+            "id": "190",
+            "name": "GitHub - yianwillis/vimcdoc: Vim 中文文档计划",
+            "type": "url",
+            "url": "https://github.com/yianwillis/vimcdoc#win32-%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85"
+         }, {
+            "date_added": "13198666527000000",
+            "guid": "a03bc885-7d60-46b8-9ab5-3bb9d23867be",
+            "id": "191",
+            "name": "element-UI表格从一列中，拿到当前行的index----scope - 临界 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/yangyi9343/p/9295473.html"
+         }, {
+            "date_added": "13198761343000000",
+            "guid": "eaeec748-f689-43a5-a3d4-c64b29526d80",
+            "id": "192",
+            "name": "招商银行的企业文化，你了解多少",
+            "type": "url",
+            "url": "https://www.sohu.com/a/199117192_227117"
+         }, {
+            "date_added": "13199157872000000",
+            "guid": "a3608f55-5d13-43ea-b606-599f6b43790b",
+            "id": "193",
+            "name": "[转载]在github上建立Vimwiki - 庚庚 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/yetugeng/articles/8564368.html"
+         }, {
+            "date_added": "13199183396000000",
+            "guid": "5fe7940d-87cb-411b-b147-c77bb6c58dc4",
+            "id": "194",
+            "name": "用Github搭建自己免费的个人博客 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/ba81a536d61a"
+         }, {
+            "date_added": "13199184426000000",
+            "guid": "7f914980-6110-40f6-b877-4974bae87de9",
+            "id": "195",
+            "name": "在github上建立Vimwiki - 庚庚 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/yetugeng/articles/8564370.html"
+         }, {
+            "date_added": "13199336030000000",
+            "guid": "40380418-cb85-4dce-a359-fbe282696a3b",
+            "id": "196",
+            "name": "如何利用github page快速搭建个人博客 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/d7c6e59931f0"
+         }, {
+            "children": [ {
+               "date_added": "13200130283000000",
+               "guid": "a4341011-34dc-4f98-9a97-8672a4327b43",
+               "id": "198",
+               "name": "《阿金》三论 - 道客巴巴",
+               "type": "url",
+               "url": "http://www.doc88.com/p-9098753625994.html"
+            }, {
+               "date_added": "13200130305000000",
+               "guid": "733bca0e-6da4-4fcc-bc7e-2067caa505e0",
+               "id": "199",
+               "name": "女阿Q或错版异形？--鲁迅笔下阿金形象新论研究.pdf",
+               "type": "url",
+               "url": "https://max.book118.com/html/2018/0113/148526801.shtm"
+            } ],
+            "date_added": "13241027108857345",
+            "date_modified": "0",
+            "guid": "d3964700-10e6-48f6-b12e-3c8ca92c0859",
+            "id": "197",
+            "name": "阿金",
+            "type": "folder"
+         }, {
+            "date_added": "13224350013000000",
+            "guid": "74e40369-02dc-4cf6-a236-918948b2899d",
+            "id": "200",
+            "name": "2018年的安卓开发环境搭建_过了即是客-CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/u011054333/article/details/84676949"
+         }, {
+            "date_added": "13230100894000000",
+            "guid": "5a00a2c8-59f9-445d-9253-60fcff27a3ae",
+            "id": "201",
+            "name": "Kaggle_百度百科",
+            "type": "url",
+            "url": "https://baike.baidu.com/item/Kaggle/10449376?fr=aladdin"
+         }, {
+            "children": [ {
+               "date_added": "13234776063000000",
+               "guid": "e01b692d-6151-4ea5-991c-0b7724028f6b",
+               "id": "203",
+               "name": "ssh 将22端口换为其它 防火墙设置 - aaron_agu - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/aaron-agu/p/5745773.html"
+            }, {
+               "date_added": "13234776086000000",
+               "guid": "9623db5c-5d29-40bd-9627-63e92fac600c",
+               "id": "204",
+               "name": "请教一下，在 Vultr 上买了一台 centos7 的机子， xshell 连接不上，我需要给在机器上做什么配置么？ - V2EX",
+               "type": "url",
+               "url": "https://www.v2ex.com/t/500770"
+            }, {
+               "date_added": "13234776334000000",
+               "guid": "ba9a6342-c5f5-477b-9fbc-2cdf9aeb4553",
+               "id": "205",
+               "name": "关于 VPS 和翻墙的那些事 - StarryVoid - Blog",
+               "type": "url",
+               "url": "https://blog.starryvoid.com/archives/76.html"
+            }, {
+               "date_added": "13234778785000000",
+               "guid": "964aefa6-1d54-4b40-bed9-a12a78f46fa4",
+               "id": "206",
+               "name": "如何部署shadowsocks服务 | Ming's Blog",
+               "type": "url",
+               "url": "https://bitmingw.com/2015/04/03/install-shadowsocks-server/"
+            }, {
+               "date_added": "13234779601000000",
+               "guid": "927452ec-5b1b-4999-9137-ef2801f02815",
+               "id": "207",
+               "name": "(8条消息)centos 如何安装 pip（解决No package python-pip available问题）_python_qq_15098623的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_15098623/article/details/90905230"
+            }, {
+               "date_added": "13234779863000000",
+               "guid": "06a506cf-8af6-4d47-92cc-b25989a6764f",
+               "id": "208",
+               "name": "(8条消息)Shadows启动报错undefined symbol EVP_CIPHER_CTX_cleanup_python_ParadiseDuo-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/youshaoduo/article/details/80745196"
+            }, {
+               "date_added": "13234779914000000",
+               "guid": "40067255-3f5e-4bb4-84c0-c330776421ac",
+               "id": "209",
+               "name": "使用 Vultr 搭建 Shadowsocks（VPS 搭建 SS） | 虾丸派",
+               "type": "url",
+               "url": "https://www.playpi.org/2018111601.html"
+            }, {
+               "date_added": "13234780246000000",
+               "guid": "2ae4cbb5-278b-4c5d-bb22-6d5847fd339b",
+               "id": "210",
+               "name": "Shadowsocks/SS客户端 - tlanyan",
+               "type": "url",
+               "url": "https://tlanyan.me/shadowsock-clients/"
+            }, {
+               "date_added": "13234783143000000",
+               "guid": "304026c9-8780-44e3-9c8b-c3419e6a17d3",
+               "id": "211",
+               "name": "500 Internal Privoxy Error解决方法 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/c72536933a0d"
+            }, {
+               "date_added": "13234783231000000",
+               "guid": "9884ead5-8e76-44cc-a60d-c382adc72937",
+               "id": "212",
+               "name": "Linux关闭防火墙并设置开机启动/不启动_操作系统_傲娇的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_41116956/article/details/82767418"
+            }, {
+               "date_added": "13234785827000000",
+               "guid": "f3d60433-8e7f-4483-9266-efa295c06fe7",
+               "id": "213",
+               "name": "2020年Vultr VPS新手图文教程 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/103893792"
+            } ],
+            "date_added": "13241027108857487",
+            "date_modified": "0",
+            "guid": "9f46c179-b78f-48cf-80a1-51143aec3df7",
+            "id": "202",
+            "name": "vultr",
+            "type": "folder"
+         }, {
+            "date_added": "13236076018000000",
+            "guid": "7d19be33-7abf-4fa9-8b05-c4889aba22d9",
+            "id": "214",
+            "name": "ihr.chinamobile.com",
+            "type": "url",
+            "url": "https://ihr.chinamobile.com/csw/ers/identityVerification?appleNum=YGGX202006080010"
+         }, {
+            "date_added": "13203328216000000",
+            "guid": "8aa90e2f-7286-4774-ba1d-f5510c9cf901",
+            "id": "215",
+            "name": "Swagger使用指南 - sanyaoxu_3的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/sanyaoxu_2/article/details/80555328"
+         }, {
+            "date_added": "13237367315000000",
+            "guid": "4f162767-e10e-4af4-b1af-c8b4179d9895",
+            "id": "216",
+            "name": "(13条消息)Microsoft Outlook无法启动，无法打开此文件夹集合，无法访问文件xxxxx.ost的解决办法_荣耀之路-CSDN博客_无法启动outlook无法打开此文件夹集合",
+            "type": "url",
+            "url": "https://blog.csdn.net/asty9000/article/details/82864194"
+         }, {
+            "date_added": "13238062747000000",
+            "guid": "77a5b19e-ec3a-42ce-b356-1634b89f0ba0",
+            "id": "217",
+            "name": "Windows下文件夹映射的实现（将文件夹从一个盘映射到另一个盘）",
+            "type": "url",
+            "url": "https://www.hangge.com/blog/cache/detail_1879.html"
+         }, {
+            "children": [ {
+               "date_added": "13238066596000000",
+               "guid": "b4ef861f-f480-40be-8abd-b6dff53a9719",
+               "id": "219",
+               "name": "MyBatis系列：模糊查询的4种实现方式",
+               "type": "url",
+               "url": "https://baijiahao.baidu.com/s?id=1654523881624000395&wfr=spider&for=pc"
+            } ],
+            "date_added": "13241027108858056",
+            "date_modified": "0",
+            "guid": "4ca5b690-2264-4fd9-b6e1-f56d64ea1ad6",
+            "id": "218",
+            "name": "mysql",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13238126254000000",
+               "guid": "e4f395f0-c6f7-4db0-8470-e77b619f8127",
+               "id": "221",
+               "name": "(13条消息)git pull拉取代码时冲突的解决办法_蜗牛不会跑-CSDN博客_git pull冲突怎么解决",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_39939012/article/details/85072692"
+            }, {
+               "date_added": "13239705145000000",
+               "guid": "8fef01b7-05c6-426a-831c-e7a87373ec24",
+               "id": "222",
+               "name": "git 对 Microsoft Word 进行版本控制 - 叶祖辉 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/yezuhui/p/6853271.html"
+            }, {
+               "date_added": "13237365859000000",
+               "guid": "a0fbfb87-2fc0-45ec-9602-be322da515ba",
+               "id": "223",
+               "name": "git 查看所有远程分支以及同步 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/5adc552323ca"
+            }, {
+               "date_added": "13239790395000000",
+               "guid": "09b0763d-2948-402f-a149-79c62e2db636",
+               "id": "224",
+               "name": "(13条消息)git变基_朱登凯的专栏-CSDN博客_git变基",
+               "type": "url",
+               "url": "https://blog.csdn.net/daguanjia11/article/details/79932587"
+            } ],
+            "date_added": "13241027108858099",
+            "date_modified": "0",
+            "guid": "f0f8ab78-d308-48a5-bd9a-a2d3e5f8c5f0",
+            "id": "220",
+            "name": "git",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13239773725000000",
+               "guid": "872b7a43-fe9c-4e68-bb13-975e808b7fbc",
+               "id": "226",
+               "name": "Win 下 Gvim 的 nerd_tree 树，怎么切换盘符？汗血宝马",
+               "type": "url",
+               "url": "http://www.caotama.com/3840.html"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "b5b8cd35-cbc9-4a63-823c-92320af6fcd7",
+               "id": "227",
+               "name": "GitHub - yianwillis/vimcdoc: Vim 中文文档计划",
+               "type": "url",
+               "url": "https://github.com/yianwillis/vimcdoc#vimcdoc"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "2024bc9c-304a-4660-bbd5-52d72a914225",
+               "id": "228",
+               "name": "Home · VundleVim/Vundle.vim Wiki · GitHub",
+               "type": "url",
+               "url": "https://github.com/VundleVim/Vundle.vim/wiki#faq9"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "4a12a082-2f15-4c30-869e-69198e0d24eb",
+               "id": "229",
+               "name": "GitHub - vimcn/vimwiki.vim.cnx: vimwiki 中文文档",
+               "type": "url",
+               "url": "https://github.com/vimcn/vimwiki.vim.cnx"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "127f4406-3449-43b9-b491-22fae926efb7",
+               "id": "230",
+               "name": "vim应用：终极解决windows系统gvim/vim的各种乱码(文件，菜单，提示信息)！ - 人生如梦，梦如人生 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/zhaoyang-1989/p/3854011.html"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "48e50aec-8ea8-4897-b0ef-f88d8dd25eac",
+               "id": "231",
+               "name": "Emmet.vim 教程",
+               "type": "url",
+               "url": "https://blog.zfanw.com/zencoding-vim-tutorial-chinese/"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "d146f4a6-1fcf-4013-91e9-344f84c254e6",
+               "id": "232",
+               "name": "使用 Vimwiki + git 做知识管理",
+               "type": "url",
+               "url": "https://www.linuxzen.com/shi-yong-vimwiki-git-zuo-zhi-shi-guan-li.html"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "14e83f8f-796b-4b47-9a42-9fff71b1cf7f",
+               "id": "233",
+               "name": "(14条消息)VIM键盘映射 (Map)_daofengdeba-CSDN博客_vim 映射",
+               "type": "url",
+               "url": "https://blog.csdn.net/daofengdeba/article/details/7605124"
+            }, {
+               "date_added": "13239773725000000",
+               "guid": "6869f417-1bdf-4447-8d85-b03cd1aacfcd",
+               "id": "234",
+               "name": "vim使用手册 - sxy2475的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sxy2475/article/details/76222012"
+            }, {
+               "date_added": "13196490676000000",
+               "guid": "25ffa341-48cf-4142-9607-10d123b72df6",
+               "id": "235",
+               "name": "vim配置",
+               "type": "url",
+               "url": "https://www.imooc.com/article/9689"
+            }, {
+               "date_added": "13195751879000000",
+               "guid": "ffe3ca3d-6e3c-4083-aadf-39913dfc74ce",
+               "id": "236",
+               "name": "禁止vim生成 un~文件 - hang916的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/hang916/article/details/79493506"
+            }, {
+               "date_added": "13195747433000000",
+               "guid": "a0a9cc28-d2e5-4938-aebc-e4876e88b4e8",
+               "id": "237",
+               "name": "gvim+w7+vundle安装教程 - 保持住思维的鲜活，才能充满活力。 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/myloveqingmu/article/details/52518563"
+            }, {
+               "date_added": "13195726086000000",
+               "guid": "de2ea237-22d2-474d-974a-fc97a3482049",
+               "id": "238",
+               "name": "Category: Vim入门教程 | vim教程网",
+               "type": "url",
+               "url": "https://vim.ink/categories/Vim%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"
+            }, {
+               "date_added": "13197434954000000",
+               "guid": "da6d22c2-f665-4dc1-be9b-972d07ac9e0d",
+               "id": "239",
+               "name": "可能是 Windows 下最漂亮的 Gvim 配置了 - FE-player - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000005793581"
+            }, {
+               "date_added": "13194684375000000",
+               "guid": "06451b0a-6c68-4981-87c6-dc1bdbec2f32",
+               "id": "240",
+               "name": "vim/vi 如何高效使用(键盘图打印版) - zhlh_xt的专栏 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/zhlh_xt/article/details/52458672"
+            }, {
+               "date_added": "13194672961000000",
+               "guid": "276d265e-03d0-4b0c-ae09-5196a5e3a439",
+               "id": "241",
+               "name": "全世界最好的编辑器VIM之Windows配置（gvim） - zxy9602的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/zxy9602/article/details/79439257"
+            }, {
+               "date_added": "13194667003000000",
+               "guid": "055db4e0-d5c7-4c4b-9fbe-4f1cf3d8833e",
+               "id": "242",
+               "name": "vim简明教程 - harry_ma - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/harry335/p/5886405.html"
+            } ],
+            "date_added": "13241027108858273",
+            "date_modified": "0",
+            "guid": "6cfc8646-af91-4f98-ad75-71241faee2cd",
+            "id": "225",
+            "name": "vim",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13239789134000000",
+               "guid": "ba41fca5-616a-4dd2-a2ec-a79d39c5c556",
+               "id": "244",
+               "name": "(13条消息)命令创建定时任务及bat脚本_沐恩-CSDN博客_bat定时任务",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_31176861/article/details/90901336"
+            } ],
+            "date_added": "13241027108858843",
+            "date_modified": "0",
+            "guid": "24c3fedb-6669-41ff-a7a6-66eb32fa7eb2",
+            "id": "243",
+            "name": "bat",
+            "type": "folder"
+         }, {
+            "date_added": "13239795889000000",
+            "guid": "2b5cae88-d50c-44d6-a5e3-5eddcee743a1",
+            "id": "245",
+            "name": "用Python爬了一下我的微信好友，我开始怀疑人生了··· - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/a772942d504d"
+         }, {
+            "date_added": "13239795967000000",
+            "guid": "2caec016-c957-4861-a427-d36afcb9f170",
+            "id": "246",
+            "name": "GitHub - littlecodersh/ItChat: A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+            "type": "url",
+            "url": "https://github.com/littlecodersh/ItChat"
+         }, {
+            "date_added": "13239867206000000",
+            "guid": "1fcdbd67-007c-4530-b832-371a5a2edfed",
+            "id": "247",
+            "name": "GitHub - yaphone/itchat4j: itchat4j -- 用Java扩展个人微信号的能力",
+            "type": "url",
+            "url": "https://github.com/yaphone/itchat4j"
+         }, {
+            "children": [ {
+               "date_added": "13217742963000000",
+               "guid": "bd1ee565-bc99-4d84-a3b1-01aa75dc2f25",
+               "id": "249",
+               "name": "资费专区_服务中心_中国移动通信",
+               "type": "url",
+               "url": "http://www.10086.cn/fee/js/index_250_250_detail_34704.html"
+            }, {
+               "date_added": "13231075343000000",
+               "guid": "f0f5be51-c72a-460f-8592-1740c435219c",
+               "id": "250",
+               "name": "pdf压缩 | iLovePDF",
+               "type": "url",
+               "url": "https://www.ilovepdf.com/zh-cn/download/1rprxtn8p11mm7447kqw9ztp7bpxjsr9b2v2ps26h67fw7lfg6y3d4n799x16w9w8w0fwp7cn04qbA6sd6l07nqwdzsbjymk7Am1gb6t52bkgjzt92cz7bq6wtzhr2432tx2Aq3vg68x59h3z5kkrs8dcx6wAl1pt11A0rs2hAxr63zpl0nq/10"
+            } ],
+            "date_added": "13241027108859026",
+            "date_modified": "0",
+            "guid": "9d38ada9-47c7-4771-867c-02294e228b65",
+            "id": "248",
+            "name": "已导入",
+            "type": "folder"
+         }, {
+            "date_added": "13241083052715970",
+            "guid": "24285f72-0db6-47a2-97df-0a75d241f392",
+            "id": "254",
+            "name": "我曾七次鄙视自己的灵魂_百度百科",
+            "type": "url",
+            "url": "https://baike.baidu.com/item/%E6%88%91%E6%9B%BE%E4%B8%83%E6%AC%A1%E9%84%99%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%81%B5%E9%AD%82/19545065?fr=aladdin"
+         }, {
+            "date_added": "13241085887479318",
+            "guid": "d8e26d80-8db9-4752-8e2c-c16e74663b5b",
+            "id": "255",
+            "name": "我们仍将尝试为你激活 Office - Office 支持",
+            "type": "url",
+            "url": "https://support.microsoft.com/zh-cn/office/%e6%88%91%e4%bb%ac%e4%bb%8d%e5%b0%86%e5%b0%9d%e8%af%95%e4%b8%ba%e4%bd%a0%e6%bf%80%e6%b4%bb-office-dbc5cca6-8059-4986-a744-b69fbf0dea02?ns=officenewlic&version=16&syslcid=2052&uilcid=2052&appver=onl160&helpid=newlic-newact-err-svc-2nd&ui=zh-cn&rs=zh-cn&ad=cn"
+         }, {
+            "date_added": "13241496846550677",
+            "guid": "19e25eeb-6a4e-42ca-a21c-9a1366151067",
+            "id": "259",
+            "name": "https://geckoiplc.com",
+            "type": "url",
+            "url": "https://geckoiplc.com/"
+         }, {
+            "date_added": "13241498093665547",
+            "guid": "e83e3ba5-c559-4c90-9f53-efd8b83622ce",
+            "id": "260",
+            "name": "硬,软连接,以及在windows中的用法 - 善良的大蝌蚪 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/wjw6692353/p/11106912.html"
+         } ],
+         "date_added": "13241027047907900",
+         "date_modified": "13241498093665547",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13241027047907916",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13241027047907920",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
