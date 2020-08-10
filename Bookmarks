@@ -1,5 +1,5 @@
 {
-   "checksum": "1294e3bfa8e00ea4016e39a3be922b66",
+   "checksum": "ae0ab40936b0a8e660d63ab94d93d9f3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -7,14 +7,14 @@
                "date_added": "13191996045000000",
                "guid": "cc55fb2c-3f25-4545-b494-2e35497675e0",
                "id": "9",
-               "name": "有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 - 哈喽沃德的回答 - SegmentFault 思否",
+               "name": "有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 测试 - 哈喽沃德的回答 - SegmentFault 思否",
                "type": "url",
                "url": "https://segmentfault.com/q/1010000005814672/a-1020000005837425"
             }, {
                "date_added": "13192076399000000",
                "guid": "80347305-bc3e-4ac7-ad04-5b7239ce5848",
                "id": "10",
-               "name": "java - 有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 - SegmentFault 思否",
+               "name": "java - 有没有一个工具 可以根据数据库生成一套通用的增删改查功能 包括前端页面。 硬链接测试 - SegmentFault 思否",
                "type": "url",
                "url": "https://segmentfault.com/q/1010000005814672"
             }, {
@@ -1766,9 +1766,23 @@
             "name": "硬,软连接,以及在windows中的用法 - 善良的大蝌蚪 - 博客园",
             "type": "url",
             "url": "https://www.cnblogs.com/wjw6692353/p/11106912.html"
+         }, {
+            "date_added": "13241501242977326",
+            "guid": "7bc4fe54-37f0-4255-95e7-a1288149e38c",
+            "id": "261",
+            "name": "[技术贴]自动备份Google Chrome书签数据，并打造专属在线书签网页 | 达夕博客",
+            "type": "url",
+            "url": "https://www.daxiblog.com/%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BDgoogle-chrome%E4%B9%A6%E7%AD%BE%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%B9%B6%E6%89%93%E9%80%A0%E4%B8%93%E5%B1%9E%E5%9C%A8%E7%BA%BF%E4%B9%A6%E7%AD%BE%E7%BD%91%E9%A1%B5/"
+         }, {
+            "date_added": "13241501250033773",
+            "guid": "37abfada-c968-4286-9418-1964b55838d6",
+            "id": "262",
+            "name": "预装Office家庭和学生版显示为365版本，且无法激活的解决方案 - 吾晓科技",
+            "type": "url",
+            "url": "https://www.pcoic.com/software/892.html"
          } ],
          "date_added": "13241027047907900",
-         "date_modified": "13241498093665547",
+         "date_modified": "13241501250033773",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "书签栏",
